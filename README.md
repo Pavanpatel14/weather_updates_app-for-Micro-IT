@@ -11,3 +11,6 @@ weather-updates-app
 ├── requirements.txt     # List of dependencies
 └── README.md            # Project documentation
 ```
+
+## Screenshot
+<img width="585" alt="Image" src="https://github.com/user-attachments/assets/3272b15c-f544-4fc9-bf10-65764d4abd29" />
